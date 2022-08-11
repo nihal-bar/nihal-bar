@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Nihal
-####🌱 I’m currently learning Computer Science in TU Darmstadt in Germany
+#### 🌱 I’m currently learning Computer Science in TU Darmstadt in Germany
  
 <!--
 **nihal-bar/nihal-bar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
